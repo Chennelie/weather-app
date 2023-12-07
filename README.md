@@ -1,5 +1,7 @@
 # WeatherApp
 
+![capture](https://github.com/Chennelie/weather-app/assets/15028924/6b9a2767-329b-44f3-87c4-3151ab7a085a)
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.7.
 
 ## Development server
